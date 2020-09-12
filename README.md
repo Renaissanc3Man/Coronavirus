@@ -10,6 +10,6 @@ Code and data can be found at https://github.com/Renaissanc3Man/Coronavirus
 
 -------------------------------------------------------------------------------------------------
 
-### US Data Notebook: https://rb.gy/zm4edi
+#### US Data Notebook: https://rb.gy/zm4edi
 
-### World Data Notebook: https://rb.gy/rtvi9r
+#### World Data Notebook: https://rb.gy/rtvi9r
