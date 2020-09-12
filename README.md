@@ -7,3 +7,8 @@ Joined with population data from The World Bank https://data.worldbank.org/indic
 Missing data filled in with Wikipedia population data http://wikipedia.org
 
 Code and data can be found at https://github.com/Renaissanc3Man/Coronavirus
+
+
+US Data Notebook: 
+
+World Data Notebook: https://rb.gy/rtvi9r
